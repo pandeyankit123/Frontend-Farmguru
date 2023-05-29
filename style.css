@@ -501,7 +501,7 @@ section{
 }
 
 .deal{
-  background:url(../image/deal-bg.jpg) no-repeat;
+  background:url(./image/deal-bg.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   padding-top: 7rem;
@@ -583,7 +583,7 @@ section{
 }
 
 .newsletter{
-  background:url(../image/newsletter-bg.jpg) no-repeat;
+  background:url(./image/newsletter-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   text-align: center;
